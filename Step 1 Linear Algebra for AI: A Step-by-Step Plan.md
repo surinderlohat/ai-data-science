@@ -1,5 +1,5 @@
-## Level 1: Basics — Foundational Concepts
-Scalars, Vectors, and Matrices
+## Level 1: Basics — Foundational Concepts 
+ [Scalars, Vectors, and Matrices] ([https://pages.github.com/](https://github.com/surinderlohat/ai-data-science/blob/main/Step%201.1%20%20Linear%20Algebra%20Basics%3A%20Scalars%2C%20Vectors%2C%20and%20Matrices.md))
 
 ✅ Real-life: Representing images, audio, and text
 
